@@ -1,0 +1,10 @@
+.counrtyStyle{
+    background-color: bisque;
+    margin: 4px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.counrtyStyle img{
+    width: 250px;
+    border-radius: 10px;
+}
